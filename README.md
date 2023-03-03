@@ -80,3 +80,7 @@ https://www.geeksforgeeks.org/merge-strategies-in-git/
 ### Housekeeping - Branch removal/clean-up
 
 https://railsware.com/blog/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/
+
+## IDE - VS Code
+
+https://code.visualstudio.com/

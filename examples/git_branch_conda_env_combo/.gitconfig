@@ -1,0 +1,28 @@
+[user]
+	email = <email_address>
+	name = <first_name_last_name>
+[credential "helperselector"]
+	selected = manager
+    helper = store
+[http]
+    sslVerify = true
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[core]
+	autocrlf = true
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[alias]
+  s = status
+  l = log
+  cm = commit -m
+  ba = branch --all
+  fa = fetch --all
+  saveall = !git add -A && git commit -m 'chore: batch commit save point.' && git push
+  pushsuo = push --set-upstream origin

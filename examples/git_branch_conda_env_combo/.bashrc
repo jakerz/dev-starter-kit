@@ -76,7 +76,7 @@ alias gco="git checkout"
 alias vlc="\c\Program Files\VideoLAN\VLC\vlc.exe"
 alias ll='ls -l'
 alias conda='conda.bat'
-# >>> Aliases >>>
+# <<< Aliases <<<
 
 # Export path for Conda environments
 export PATH=~/miniconda3/condabin:$PATH

@@ -26,3 +26,4 @@
   fa = fetch --all
   saveall = !git add -A && git commit -m 'chore: batch commit save point.' && git push
   pushsuo = push --set-upstream origin
+  rpruneo = remote prune origin

@@ -73,4 +73,17 @@ alias gb="git branch"
 alias gba="git branch --all"
 alias gfa="git fetch --all"
 alias gco="git checkout"
+alias vlc="\c\Program Files\VideoLAN\VLC\vlc.exe"
+alias ll='ls -l'
+alias conda='conda.bat'
 # >>> Aliases >>>
+
+# Export path for Conda environments
+export PATH=~/miniconda3/condabin:$PATH
+
+# Customize the default git-bash directory on load
+default_git_bash_open_path=/d/dev
+if [[ $(pwd) = $HOME ]];
+then cd $default_git_bash_open_path;
+else cd "$(pwd)";
+fi

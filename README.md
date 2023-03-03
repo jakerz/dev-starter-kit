@@ -66,14 +66,18 @@ conda env export --name dev > environment.yml
 ### SSH Keys
 
 https://docs.gitlab.com/ee/user/ssh.html
+
 https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys
+
 https://www.w3docs.com/snippets/git/how-to-generate-ssh-key-for-git.html
 
 ### Branching
 
 https://www.flagship.io/git-branching-strategies/
 
-### Merging
+### Merge/Pull Requests
+
+https://opensource.com/article/19/7/create-pull-request-github
 
 https://www.geeksforgeeks.org/merge-strategies-in-git/
 

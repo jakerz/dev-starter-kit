@@ -66,14 +66,26 @@ conda env export --name dev > environment.yml
 ### SSH Keys
 
 https://docs.gitlab.com/ee/user/ssh.html
+
 https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys
+
 https://www.w3docs.com/snippets/git/how-to-generate-ssh-key-for-git.html
+
+gitlab-ssh-config.md:
+
+https://gist.github.com/projected1/305cb570f09103d7d4c741627eaf1891
+
+https://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/
+
+https://www.tutorialspoint.com/gitlab/gitlab_ssh_key_setup.htm
 
 ### Branching
 
 https://www.flagship.io/git-branching-strategies/
 
-### Merging
+### Merge/Pull Requests
+
+https://opensource.com/article/19/7/create-pull-request-github
 
 https://www.geeksforgeeks.org/merge-strategies-in-git/
 

@@ -71,6 +71,12 @@ https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys
 
 https://www.w3docs.com/snippets/git/how-to-generate-ssh-key-for-git.html
 
+gitlab-ssh-config.md:
+
+https://gist.github.com/projected1/305cb570f09103d7d4c741627eaf1891
+
+https://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/
+
 ### Branching
 
 https://www.flagship.io/git-branching-strategies/

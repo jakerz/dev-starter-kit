@@ -77,6 +77,8 @@ https://gist.github.com/projected1/305cb570f09103d7d4c741627eaf1891
 
 https://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/
 
+https://www.tutorialspoint.com/gitlab/gitlab_ssh_key_setup.htm
+
 ### Branching
 
 https://www.flagship.io/git-branching-strategies/
